@@ -2,7 +2,7 @@
 
 ## Overview
 
-[![Overview](overview.svg)](overview.svg)
+[![Overview](overview.svg)](https://raw.githack.com/divvun/registry/master/overview.svg)
 
 ## Software
 
