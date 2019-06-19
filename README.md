@@ -6,7 +6,7 @@
 
 ## Software
 
-| Repository | Description | Programming Language(s) | Platform | License | &nbsp;&nbsp;&nbsp;CI&nbsp;Report&nbsp;&nbsp;&nbsp; |
+| Repository | Description | Programming Language(s) | Platform | License | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CI&nbsp;Report&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ---------- | ----------- | ----------------------- | -------- | ------- | --------- |
 | [divvun-api](https://github.com/divvun/divvun-api) | API server | Rust | Any | Apache 2.0 OR MIT | |
 | [divvun-bundler](https://github.com/divvun/divvun-bundler) | Tool for creating installers and bundlers for various bits and bobs | Rust | any | Apache 2.0 OR MIT | |
