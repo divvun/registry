@@ -29,12 +29,22 @@
 
 ### Keyboards
 
-| Repository | Spoken Language(s) | License | URL | CI Report |
-| ---------- | ------------------ | ------- | --- | --------- |
-| giellalt/keyboard-XXX | XXX | XXX | XXX | XXX |
+| Repository | Spoken Language(s) | License | CI Report |
+| ---------- | ------------------ | ------- | --------- |
+| [giellalt/keyboard-crk](https://github.com/giellalt/keyboard-crk) | Plains Cree | XXX | [![Build Status](https://dev.azure.com/giellalt/crk/_apis/build/status/giellalt.keyboard-crk?branchName=master)](https://dev.azure.com/giellalt/crk/_build/latest?definitionId=1&branchName=master) |
+| [giellalt/keyboard-sma](https://github.com/giellalt/keyboard-sma) | Southern Sami | XXX | [![Build Status](https://dev.azure.com/giellalt/sma/_apis/build/status/giellalt.keyboard-sma?branchName=master)](https://dev.azure.com/giellalt/sma/_build/latest?definitionId=3&branchName=master) |
+| [giellalt/keyboard-sme](https://github.com/giellalt/keyboard-sme) | Northern Sami | XXX | [![Build Status](https://dev.azure.com/giellalt/sme/_apis/build/status/giellalt.keyboard-sme?branchName=master)](https://dev.azure.com/giellalt/sme/_build/latest?definitionId=6&branchName=master) |
+| [giellalt/keyboard-smj](https://github.com/giellalt/keyboard-smj) | Lule Sami | XXX | [![Build Status](https://dev.azure.com/giellalt/smj/_apis/build/status/giellalt.keyboard-smj?branchName=master)](https://dev.azure.com/giellalt/smj/_build/latest?definitionId=5&branchName=master) |
+| [giellalt/keyboard-smn](https://github.com/giellalt/keyboard-smn) | Inari Sami | XXX | [![Build Status](https://dev.azure.com/giellalt/smn/_apis/build/status/giellalt.keyboard-smn?branchName=master)](https://dev.azure.com/giellalt/smn/_build/latest?definitionId=2&branchName=master) |
+| [giellalt/keyboard-sms](https://github.com/giellalt/keyboard-sms) | Skolt Sami | XXX | [![Build Status](https://dev.azure.com/giellalt/sms/_apis/build/status/giellalt.keyboard-sms?branchName=master)](https://dev.azure.com/giellalt/sms/_build/latest?definitionId=4&branchName=master) |
 
 ### Languages
 
-| Repository | Spoken Language(s) | License | URL | CI Report |
-| ---------- | ------------------ | ------- | --- | --------- |
-| giellalt/lang-XXX | XXX | XXX | XXX | XXX |
+| Repository | Spoken Language(s) | License | CI Report |
+| ---------- | ------------------ | ------- | --------- |
+| [giellalt/lang-crk](https://github.com/giellalt/lang-crk) | Plains Cree | XXX | [![Build Status](https://dev.azure.com/giellalt/crk/_apis/build/status/giellalt.lang-crk?branchName=master)](https://dev.azure.com/giellalt/crk/_build/latest?definitionId=12&branchName=master) |
+| [giellalt/lang-sma](https://github.com/giellalt/lang-sma) | Southern Sami | XXX | [![Build Status](https://dev.azure.com/giellalt/sma/_apis/build/status/giellalt.lang-sma?branchName=master)](https://dev.azure.com/giellalt/sma/_build/latest?definitionId=8&branchName=master) |
+| [giellalt/lang-sme](https://github.com/giellalt/lang-sme) | Northern Sami | XXX | [![Build Status](https://dev.azure.com/giellalt/sme/_apis/build/status/giellalt.lang-sme?branchName=master)](https://dev.azure.com/giellalt/sme/_build/latest?definitionId=9&branchName=master) |
+| [giellalt/lang-smj](https://github.com/giellalt/lang-smj) | Lule Sami | XXX | [![Build Status](https://dev.azure.com/giellalt/smj/_apis/build/status/giellalt.lang-smj?branchName=master)](https://dev.azure.com/giellalt/smj/_build/latest?definitionId=10&branchName=master) |
+| [giellalt/lang-smn](https://github.com/giellalt/lang-smn) | Inari Sami | XXX | [![Build Status](https://dev.azure.com/giellalt/smn/_apis/build/status/giellalt.lang-smn?branchName=master)](https://dev.azure.com/giellalt/smn/_build/latest?definitionId=7&branchName=master) |
+| [giellalt/lang-sms](https://github.com/giellalt/lang-sms) | Skolt Sami | XXX | [![Build Status](https://dev.azure.com/giellalt/sms/_apis/build/status/giellalt.lang-sms?branchName=master)](https://dev.azure.com/giellalt/sms/_build/latest?definitionId=11&branchName=master) |
