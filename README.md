@@ -68,7 +68,7 @@ Since the keyboard and speller pipelines rely on the azure templates in the [div
 2. Go to `Project settings`
 3. Go to `Service connections`
 4. Select `New service connection`
-5. Select `GitHub``
+5. Select `GitHub`
 6. Make sure `Grant Access` is selected and name the connection `divvun-ci`
 7. `Allow all pipelines to use this connection` and select `Ok`
 
