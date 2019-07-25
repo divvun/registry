@@ -25,6 +25,8 @@
 | [pahkat-client-macos](https://github.com/divvun/pahkat-client-macos) | macOS UI client for Páhkat package manager | Swift | macOS | GPL-3.0 | [![Build Status](https://dev.azure.com/divvun/divvun-installer/_apis/build/status/divvun.pahkat-client-macos?branchName=master)](https://dev.azure.com/divvun/divvun-installer/_build/latest?definitionId=8&branchName=master) |
 | [pahkat-client-windows](https://github.com/divvun/pahkat-client-windows) | Windows UI client for Páhkat package manager | C# | Windows 8.1+ | GPL-3.0 | [![Build Status](https://dev.azure.com/divvun/divvun-installer/_apis/build/status/divvun.pahkat-client-windows?branchName=master)](https://dev.azure.com/divvun/divvun-installer/_build/latest?definitionId=5&branchName=master) |
 | [windivvun-service](https://github.com/divvun/windivvun-service) | Spell checking service for Windows 8.1+ | Rust | Windows | Apache 2.0 OR MIT | [![Build Status](https://dev.azure.com/divvun/divvun-service/_apis/build/status/divvun.windivvun-service?branchName=master)](https://dev.azure.com/divvun/divvun-service/_build/latest?definitionId=2&branchName=master) |
+| [xkb-parser](https://github.com/divvun/xkb-parser) | A parser for X11 `.xkb` keyboard layout files | Rust | Any | Apache 2.0 OR MIT | [![Build Status](https://dev.azure.com/divvun/xkb-parser/_apis/build/status/divvun.xkb-parser?branchName=master)](https://dev.azure.com/divvun/xkb-parser/_build/latest?definitionId=2&branchName=master) |
+
 
 ## Resources
 
