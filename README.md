@@ -4,7 +4,15 @@
 
 [![Overview](overview.svg)](https://raw.githack.com/divvun/registry/master/overview.svg)
 
-## Software
+## Product Software
+
+| Repository | Description | Programming Language(s) | Platform | License | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CI&nbsp;Report&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| ---------- | ----------- | ----------------------- | -------- | ------- | --------- |
+| [divvun-installer-macos](https://github.com/divvun/divvun-installer-macos) | macOS UI client for Páhkat package manager | Swift | macOS | GPL-3.0 | [![Build Status](https://github.com/divvun/divvun-installer-macos/workflows/Build/badge.svg)](https://github.com/divvun/divvun-installer-macos/actions) |
+| [divvun-installer-windows](https://github.com/divvun/divvun-installer-windows) | Windows UI client for Páhkat package manager | C# | Windows 8.1+ | GPL-3.0 | [![Build Status](https://github.com/divvun/divvun-installer-windows/workflows/divvun-installer%20(windows)/badge.svg)](https://github.com/divvun/divvun-installer-windows/actions) |
+| [divvun-keyboard](https://github.com/divvun/divvun-keyboard) | Windows UI client for Páhkat package manager | C# | Windows 8.1+ | GPL-3.0 | [![Build Status](https://github.com/divvun/divvun-keyboard/workflows/Build%20Keyboard%20from%20Meta-bundle/badge.svg)](https://github.com/divvun/divvun-keyboard/actions) |
+
+## Support Software
 
 | Repository | Description | Programming Language(s) | Platform | License | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CI&nbsp;Report&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ---------- | ----------- | ----------------------- | -------- | ------- | --------- |
@@ -24,8 +32,6 @@
 | [pahkat-client-core](https://github.com/divvun/pahkat-client-core) | Core client implementation, for use in UI implementations | Rust | Any | Apache-2.0 OR MIT | [![Build Status](https://dev.azure.com/divvun/divvun-installer/_apis/build/status/divvun.pahkat-client-core?branchName=master)](https://dev.azure.com/divvun/divvun-installer/_build/latest?definitionId=6&branchName=master) |
 | [pahkat-client-sdk-swift](https://github.com/divvun/pahkat-client-sdk-swift) | Pahkat Core SDK for Swift | Swift | macOS/iOS | Apache-2.0 OR MIT | |
 | [pahkat-client-sdk-java](https://github.com/divvun/pahkat-client-sdk-java) | Pahkat Core SDK for Java/Kotlin | Java/Kotlin | JVM/Android | Apache-2.0 OR MIT | [![Build Status](https://github.com/divvun/pahkat-client-sdk-java/workflows/Gradle%20Package/badge.svg)](https://github.com/divvun/pahkat-client-sdk-java/actions) |
-| [divvun-installer-macos](https://github.com/divvun/divvun-installer-macos) | macOS UI client for Páhkat package manager | Swift | macOS | GPL-3.0 | [![Build Status](https://github.com/divvun/divvun-installer-macos/workflows/Build/badge.svg)](https://github.com/divvun/divvun-installer-macos/actions) |
-| [divvun-installer-windows](https://github.com/divvun/divvun-installer-windows) | Windows UI client for Páhkat package manager | C# | Windows 8.1+ | GPL-3.0 | [![Build Status](https://github.com/divvun/divvun-installer-windows/workflows/divvun-installer%20(windows)/badge.svg)](https://github.com/divvun/divvun-installer-windows/actions) |
 | [windivvun-service](https://github.com/divvun/windivvun-service) | Spell checking service for Windows 8.1+ | Rust | Windows | Apache-2.0 OR MIT | [![Build Status](https://github.com/divvun/windivvun-service/workflows/windivvun/badge.svg)](https://github.com/divvun/windivvun-service/actions) |
 | [xkb-parser](https://github.com/divvun/xkb-parser) | A parser for X11 `.xkb` keyboard layout files | Rust | Any | Apache-2.0 OR MIT | [![Build Status](https://dev.azure.com/divvun/xkb-parser/_apis/build/status/divvun.xkb-parser?branchName=master)](https://dev.azure.com/divvun/xkb-parser/_build/latest?definitionId=2&branchName=master) |
 
