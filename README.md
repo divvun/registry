@@ -41,7 +41,7 @@
 
 ### Keyboards
 
-| Repository | Spoken Language(s) | License | Open&nbsp;Issues | CI Report |
+| Repository | Spoken Language | License | Open&nbsp;Issues | CI Report |
 | ---------- | ------------------ | ------- | ---------------- | --------- |
 | [giellalt/keyboard-bxr](https://github.com/giellalt/keyboard-bxr) | Russia Buriat              | XXX   | [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/keyboard-bxr)](https://github.com/giellalt/keyboard-bxr/issues) | [![Build Status](https://github.com/giellalt/keyboard-bxr/workflows/Build%20Keyboard/badge.svg)](https://github.com/giellalt/keyboard-bxr/actions) |
 | [giellalt/keyboard-crk](https://github.com/giellalt/keyboard-crk) | Plains Cree                | XXX   | [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/keyboard-crk)](https://github.com/giellalt/keyboard-crk/issues) | [![Build Status](https://github.com/giellalt/keyboard-crk/workflows/Build%20Keyboard/badge.svg)](https://github.com/giellalt/keyboard-crk/actions) |
@@ -94,7 +94,7 @@
 
 ### Languages
 
-| Repository | Spoken Language(s) | License | Open&nbsp;Issues | CI Report |
+| Repository | Spoken Language | License | Open&nbsp;Issues | CI Report |
 | ---------- | ------------------ | ------- | ---------------- | --------- |
 | [giellalt/lang-crk            ](https://github.com/giellalt/lang-crk)                | Plains Cree              | XXX   | [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-crk)](https://github.com/giellalt/lang-crk/issues) | [![Build Status](https://github.com/giellalt/lang-crk/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-crk/actions) |
 | [giellalt/lang-est (Plamk)    ](https://github.com/giellalt/lang-est-x-plamk)        | Estonian                 | XXX   | [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-est-x-plamk)](https://github.com/giellalt/lang-est-x-plamk/issues) | [![Build Status](https://github.com/giellalt/lang-est-x-plamk/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-est-x-plamk/actions) |
