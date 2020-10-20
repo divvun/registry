@@ -18,7 +18,7 @@
 
 | Repository | Description | Programming Language(s) | Platform | License | Open&nbsp;Issues | &nbsp;&nbsp;CI&nbsp;Report&nbsp;&nbsp; |
 | ---------- | ----------- | ----------------------- | -------- | ------- | --------- | --------- |
-| [divvun-api](https://github.com/divvun/divvun-api) | API server | Rust | Any | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) OR [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) | [![GitHub issues](https://img.shields.io/github/issues-raw/divvun/divvun-api)](https://github.com/divvun/divvun-api/issues) | |
+| [divvun-api](https://github.com/divvun/divvun-api) | API server | Rust | Any | Apache-2.0 OR MIT | [![GitHub issues](https://img.shields.io/github/issues-raw/divvun/divvun-api)](https://github.com/divvun/divvun-api/issues) | |
 | [divvun-bundler](https://github.com/divvun/divvun-bundler) | Tool for creating installers and bundlers for various bits and bobs | Rust | Any | Apache-2.0 OR MIT | [![GitHub issues](https://img.shields.io/github/issues-raw/divvun/divvun-bundler)](https://github.com/divvun/divvun-bundler/issues) | |
 |  divvun-bundler-mso | Necessary proprietary fork for bundling MS Office spellers, ask Børre for access | Rust | Windows | Proprietary | | |
 | [divvunspell](https://github.com/divvun/divvunspell) | Spell checking engine and library | Rust (FFI to other languages) | Any | Apache-2.0 OR MIT | [![GitHub issues](https://img.shields.io/github/issues-raw/divvun/divvunspell)](https://github.com/divvun/divvunspell/issues) | [![Actions Status](https://github.com/divvun/divvunspell/workflows/CI/badge.svg)](https://github.com/divvun/divvunspell/actions) |
