@@ -42,7 +42,7 @@
 
 ### Keyboards
 
-| Repository | Spoken Language | Maturity[¹ᴿᵉ𝖿](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | License | Open&nbsp;Issues | CI Report |
+| Repository | Spoken Language | Maturity[ˢᵉᵉ](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | License | Open&nbsp;Issues | CI Report |
 | ---------- | ------------------ | ------- | ------- | ---------------- | --------- |
 | [giellalt/keyboard-bxr](https://github.com/giellalt/keyboard-bxr) | Russia Buriat              | ![Maturity: Production](https://img.shields.io/badge/Maturity-Undefined-lightgrey.svg)    | [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/keyboard-bxr)](https://github.com/giellalt/keyboard-bxr/issues) | [![Build Status](https://github.com/giellalt/keyboard-bxr/workflows/Build%20Keyboard/badge.svg)](https://github.com/giellalt/keyboard-bxr/actions) |
 | [giellalt/keyboard-crk](https://github.com/giellalt/keyboard-crk) | Plains Cree                | ![Maturity: Production](https://img.shields.io/badge/Maturity-Beta-yellow.svg)            | [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/keyboard-crk)](https://github.com/giellalt/keyboard-crk/issues) | [![Build Status](https://github.com/giellalt/keyboard-crk/workflows/Build%20Keyboard/badge.svg)](https://github.com/giellalt/keyboard-crk/actions) |
