@@ -42,8 +42,8 @@
 
 ### Keyboards
 
-| Repository | Spoken Language | License | Open&nbsp;Issues | CI Report |
-| ---------- | ------------------ | ------- | ---------------- | --------- |
+| Repository | Spoken Language | Maturity | License | Open&nbsp;Issues | CI Report |
+| ---------- | ------------------ | ------- | ------- | ---------------- | --------- |
 | [giellalt/keyboard-bxr](https://github.com/giellalt/keyboard-bxr) | Russia Buriat              | [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | ![Maturity: Production](https://img.shields.io/badge/Maturity-Undefined-lightgrey.svg)    | [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/keyboard-bxr)](https://github.com/giellalt/keyboard-bxr/issues) | [![Build Status](https://github.com/giellalt/keyboard-bxr/workflows/Build%20Keyboard/badge.svg)](https://github.com/giellalt/keyboard-bxr/actions) |
 | [giellalt/keyboard-crk](https://github.com/giellalt/keyboard-crk) | Plains Cree                | [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | ![Maturity: Production](https://img.shields.io/badge/Maturity-Beta-yellow.svg)            | [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/keyboard-crk)](https://github.com/giellalt/keyboard-crk/issues) | [![Build Status](https://github.com/giellalt/keyboard-crk/workflows/Build%20Keyboard/badge.svg)](https://github.com/giellalt/keyboard-crk/actions) |
 | [giellalt/keyboard-hdn](https://github.com/giellalt/keyboard-hdn) | Northern Haida             | [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | ![Maturity: Production](https://img.shields.io/badge/Maturity-Alpha-red.svg)              | [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/keyboard-hdn)](https://github.com/giellalt/keyboard-hdn/issues) | [![Build Status](https://github.com/giellalt/keyboard-hdn/workflows/Build%20Keyboard/badge.svg)](https://github.com/giellalt/keyboard-hdn/actions) |
