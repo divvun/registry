@@ -224,3 +224,10 @@
 | [giellalt/lang-otw            ](https://github.com/giellalt/lang-otw)                | Ottawa                   | ![Maturity: Experiment](https://img.shields.io/badge/M-Experiment-black.svg)       | XXX                                                                                                                 | [![GitHub issues](https://img.shields.io/github/issues/giellalt/lang-otw)](https://github.com/giellalt/lang-otw/issues) | [![Build Status](https://github.com/giellalt/lang-otw/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-otw/actions) |
 | [giellalt/lang-zul            ](https://github.com/giellalt/lang-zul)                | Zulu                     | ![Maturity: Experiment](https://img.shields.io/badge/M-Experiment-black.svg)       | XXX                                                                                                                 | [![GitHub issues](https://img.shields.io/github/issues/giellalt/lang-zul)](https://github.com/giellalt/lang-zul/issues) | [![Build Status](https://github.com/giellalt/lang-zul/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-zul/actions) |
 -->
+
+### Templates
+
+| Repository | Description        | Open&nbsp;Issues |
+| ---------- | ------------------ | ---------------- |
+| [giellalt/template-lang-und](https://github.com/giellalt/template-lang-und) | Language resources and update template | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-lang-und)](https://github.com/giellalt/template-lang-und/issues) | 
+| [giellalt/template-keyboard-und](https://github.com/giellalt/template-keyboard-und) | Keyboard resources and update template | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-keyboard-und)](https://github.com/giellalt/template-keyboard-und/issues) | 
