@@ -1,13 +1,11 @@
 # Divvun Repository Registry
 
 An overview of most repositories in [Divvun](https://githubcom/divvun) and [GiellaLT](https://githubcom/giellalt),
-with their interdependencies (Divvun, see illustration below), and software and language resource repositories
-listed below. All repos are listed with core info like:
+with their interdependencies. All repos are listed with core info like:
 - license
 - short description, programming language and target platforsm (non-linguistic repos)
 - a four-grade maturity cliassification (linguistic resources)
-- open issues
-- build status
+- open issues and build status
 
 ## Overview
 
