@@ -8,7 +8,7 @@
 
 ## Keyboards
 
-| Repository | Spoken Language | Maturity | License | Open&nbsp;Issues | CI Report |
+| Repository | Spoken Language | Maturity | License | Open&nbsp;Issues | CI&nbsp;Report |
 | ---------- | --------------- | -------- | ------- | ---------------- | --------- |
 | [giellalt/keyboard-bla](https://github.com/giellalt/keyboard-bla) | Siksika                    | [![Maturity:  Undefined](https://img.shields.io/badge/M-Undefined-lightgrey.svg)   ](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | [![License: LGPL v3](https://img.shields.io/badge/Lic-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/keyboard-bla)](https://github.com/giellalt/keyboard-bla/issues) | [![Build Status](https://github.com/giellalt/keyboard-bla/workflows/CI+CD/badge.svg)](https://github.com/giellalt/keyboard-bla/actions) |
 | [giellalt/keyboard-ces](https://github.com/giellalt/keyboard-ces) | Czech                      | [![Maturity:  Undefined](https://img.shields.io/badge/M-Undefined-lightgrey.svg)   ](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | [![License: LGPL v3](https://img.shields.io/badge/Lic-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/keyboard-ces)](https://github.com/giellalt/keyboard-ces/issues) | [![Build Status](https://github.com/giellalt/keyboard-ces/workflows/CI+CD/badge.svg)](https://github.com/giellalt/keyboard-ces/actions) |
@@ -45,7 +45,7 @@
 
 ## Languages
 
-| Repository | Spoken Language | Maturity | License | Open&nbsp;Issues | CI Report |
+| Repository | Spoken Language | Maturity | License | Open&nbsp;Issues | CI&nbsp;Report |
 | ---------- | --------------- | -------- | ------- | ---------------- | --------- |
 | [giellalt/lang-apu            ](https://github.com/giellalt/lang-apu)                | Apurinã                  | [![Maturity: Experiment](https://img.shields.io/badge/M-Experiment-black.svg)      ](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | [![License:   LGPL v3](https://img.shields.io/badge/Lic-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)                 | [![GitHub issues](https://img.shields.io/github/issues/giellalt/lang-apu)](https://github.com/giellalt/lang-apu/issues) | [![Build Status](https://github.com/giellalt/lang-apu/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-apu/actions) |
 | [giellalt/lang-crj            ](https://github.com/giellalt/lang-crj)                | Southern East Cree       | [![Maturity: Experiment](https://img.shields.io/badge/M-Experiment-black.svg)      ](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | [![License:   AGPL v3](https://img.shields.io/badge/Lic-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)                 | [![GitHub issues](https://img.shields.io/github/issues/giellalt/lang-crj)](https://github.com/giellalt/lang-crj/issues) | [![Build Status](https://github.com/giellalt/lang-crj/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-crj/actions) |
