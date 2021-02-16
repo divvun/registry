@@ -137,4 +137,4 @@ with their interdependencies. All repos are listed with core info like:
 
 ## More resources
 
-[Experimental keyboards and language resources](MORESTUFF.md)
+[Experimental keyboards and language resources](Experimental.md)
