@@ -1,10 +1,11 @@
-# Experimental stuff
+# Experimental repos
 
+Repo types:
 - experiments
 - technical tests
 - student exercises (published with permision)
 - demos
-- initial setup for new languages, with no real content
+- initial setup for new languages, with no real content yet
 
 ## Keyboards
 
