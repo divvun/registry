@@ -128,19 +128,19 @@ with their interdependencies. All repos are listed with core info like:
 | [giellalt/lang-lav            ](https://github.com/giellalt/lang-lav)                | Latvian                  | [![Maturity:       Beta](https://img.shields.io/badge/M-Beta-yellow.svg)           ](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | XXX                                                                                                                                 | [![GitHub issues](https://img.shields.io/github/issues/giellalt/lang-lav)](https://github.com/giellalt/lang-lav/issues) | [![Build Status](https://github.com/giellalt/lang-lav/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-lav/actions) |
 -->
 
-## Templates
-
-| Repository | Description        | Open&nbsp;Issues |
-| ---------- | ------------------ | ---------------- |
-| [giellalt/template-lang-und    ](https://github.com/giellalt/template-lang-und)     | Language resources and update template | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-lang-und)](https://github.com/giellalt/template-lang-und/issues)         | 
-| [giellalt/template-keyboard-und](https://github.com/giellalt/template-keyboard-und) | Keyboard resources and update template | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-keyboard-und)](https://github.com/giellalt/template-keyboard-und/issues) | 
-
 ## Common resources
 
 | Repository | Description        | License | Open&nbsp;Issues | CI&nbsp;Report |
 | ---------- | ------------------ | ------- | ---------------- | -------------- |
 | [giellalt/giella-core  ](https://github.com/giellalt/giella-core)   | Core build rules and tools  | [![License: GPL v3](https://img.shields.io/badge/Lic-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/giella-core)](https://github.com/giellalt/giella-core/issues)    | [![Build Status](https://github.com/giellalt/giella-core/workflows/CI/badge.svg)](https://github.com/giellalt/giella-core/actions) |
 | [giellalt/giella-shared](https://github.com/giellalt/giella-shared) | Shared linguistic resources | [![License: GPL v3](https://img.shields.io/badge/Lic-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/giella-shared)](https://github.com/giellalt/giella-shared/issues) | N/A |
+
+## Templates
+
+| Repository | Description        | Open&nbsp;Issues |
+| ---------- | ------------------ | ---------------- |
+| [giellalt/template-lang-und    ](https://github.com/giellalt/template-lang-und)     | Language resources and update template | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-lang-und)](https://github.com/giellalt/template-lang-und/issues)         | 
+| [giellalt/template-keyboard-und](https://github.com/giellalt/template-keyboard-und) | Keyboard resources and update template | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-keyboard-und)](https://github.com/giellalt/template-keyboard-und/issues) | 
 
 ## More resources
 
