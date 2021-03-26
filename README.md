@@ -137,10 +137,10 @@ with their interdependencies. All repos are listed with core info like:
 
 ## Templates
 
-| Repository | Description        | Open&nbsp;Issues |
-| ---------- | ------------------ | ---------------- |
-| [giellalt/template-lang-und    ](https://github.com/giellalt/template-lang-und)     | Language resources and update template | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-lang-und)](https://github.com/giellalt/template-lang-und/issues)         | 
-| [giellalt/template-keyboard-und](https://github.com/giellalt/template-keyboard-und) | Keyboard resources and update template | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-keyboard-und)](https://github.com/giellalt/template-keyboard-und/issues) | 
+| Repository | Description        | License | Open&nbsp;Issues |
+| ---------- | ------------------ | ------- | ---------------- |
+| [giellalt/template-lang-und    ](https://github.com/giellalt/template-lang-und)     | Language resources and update template | [![License: LGPL v3](https://img.shields.io/badge/Lic-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-lang-und)](https://github.com/giellalt/template-lang-und/issues)         | 
+| [giellalt/template-keyboard-und](https://github.com/giellalt/template-keyboard-und) | Keyboard resources and update template | [![License: LGPL v3](https://img.shields.io/badge/Lic-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-keyboard-und)](https://github.com/giellalt/template-keyboard-und/issues) | 
 
 ## More resources
 
