@@ -10,19 +10,17 @@ with their interdependencies. All repos are listed with core info like:
 ## Content
 
 - [Overview](README.md#overview)
-- [Product Software](README.md#prodsoftware)
-- [Support Software](README.md#supportsoftware)
+- [Product Software](README.md#product-software)
+- [Support Software](README.md#support-software)
 - [Keyboard resources](README.md#keyboards)
 - [Language resources](README.md#languages)
-- [Common resources](README.md#commons)
+- [Common resources](README.md#common-resources)
 - [Templates](README.md#templates)
 
-<a id="overview"/>
 ## Overview
 
 [![Overview](overview.svg)](https://raw.githack.com/divvun/registry/master/overview.svg)
 
-<a id="prodsoftware"/>
 ## Product Software
 
 | Repository | Description | Programming Language(s) | Platform | License | Open&nbsp;Issues | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CI&nbsp;Report&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
@@ -33,7 +31,6 @@ with their interdependencies. All repos are listed with core info like:
 | [divvun-dev-keyboard](https://github.com/divvun/divvun-dev-keyboard) | Mobile phone keyboard app for testing (meta) | - | Android, iOS | - | [![GitHub issues](https://img.shields.io/github/issues-raw/divvun/divvun-dev-keyboard)](https://github.com/divvun/divvun-dev-keyboard/issues)  | [![Build Status](https://github.com/divvun/divvun-dev-keyboard/workflows/CI/badge.svg)](https://github.com/divvun/divvun-dev-keyboard/actions) |
 | [divvun-gramcheck-web](https://github.com/divvun/divvun-gramcheck-web) | Grammar checker plugin for MS&nbsp;Office & GoogleDocs | TypeScript | MS&nbsp;Office, GoogleDocs | GPL-3.0 | [![GitHub issues](https://img.shields.io/github/issues-raw/divvun/divvun-gramcheck-web)](https://github.com/divvun/divvun-gramcheck-web/issues) | |
 
-<a id="supportsoftware"/>
 ## Support Software
 
 | Repository | Description | Programming Language(s) | Platform | License | Open&nbsp;Issues | &nbsp;&nbsp;CI&nbsp;Report&nbsp;&nbsp; |
@@ -63,7 +60,6 @@ with their interdependencies. All repos are listed with core info like:
 
 ## Resources
 
-<a id="keyboards"/>
 ### Keyboards
 
 Experimental keyboard layouts and early/student work can be found on [a separate page](Experimental.md)
@@ -87,7 +83,6 @@ Experimental keyboard layouts and early/student work can be found on [a separate
 | [giellalt/keyboard-srs](https://github.com/giellalt/keyboard-srs) | Tsuutʼina (Sarsi)          | [![Maturity:      Alpha](https://img.shields.io/badge/M-Alpha-red.svg)             ](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | [![License: LGPL v3](https://img.shields.io/badge/Lic-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/keyboard-srs)](https://github.com/giellalt/keyboard-srs/issues) | [![Build Status](https://github.com/giellalt/keyboard-srs/workflows/CI+CD/badge.svg)](https://github.com/giellalt/keyboard-srs/actions) |
 | [giellalt/keyboard-vro](https://github.com/giellalt/keyboard-vro) | Võro                       | [![Maturity:      Alpha](https://img.shields.io/badge/M-Alpha-red.svg)             ](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | [![License: LGPL v3](https://img.shields.io/badge/Lic-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/keyboard-vro)](https://github.com/giellalt/keyboard-vro/issues) | [![Build Status](https://github.com/giellalt/keyboard-vro/workflows/CI+CD/badge.svg)](https://github.com/giellalt/keyboard-vro/actions) |
 
-<a id="languages"/>
 ### Languages
 
 Experimental language resources and early/student work can be found on [a separate page](Experimental.md)
@@ -147,7 +142,6 @@ Experimental language resources and early/student work can be found on [a separa
 | [giellalt/lang-lav            ](https://github.com/giellalt/lang-lav)                | Latvian                  | [![Maturity:       Beta](https://img.shields.io/badge/M-Beta-yellow.svg)           ](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | XXX                                                                                                                                 | [![GitHub issues](https://img.shields.io/github/issues/giellalt/lang-lav)](https://github.com/giellalt/lang-lav/issues) | [![Build Status](https://github.com/giellalt/lang-lav/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-lav/actions) |
 -->
 
-<a id="commons"/>
 ## Common resources
 
 | Repository | Description        | License | Open&nbsp;Issues | CI&nbsp;Report |
@@ -155,7 +149,6 @@ Experimental language resources and early/student work can be found on [a separa
 | [giellalt/giella-core  ](https://github.com/giellalt/giella-core)   | Core build rules and tools  | [![License: GPL v3](https://img.shields.io/badge/Lic-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/giella-core)](https://github.com/giellalt/giella-core/issues)    | [![Build Status](https://github.com/giellalt/giella-core/workflows/CI/badge.svg)](https://github.com/giellalt/giella-core/actions) |
 | [giellalt/giella-shared](https://github.com/giellalt/giella-shared) | Shared linguistic resources | [![License: GPL v3](https://img.shields.io/badge/Lic-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/giella-shared)](https://github.com/giellalt/giella-shared/issues) | N/A |
 
-<a id="templates"/>
 ## Templates
 
 | Repository | Description        | License | Open&nbsp;Issues |
