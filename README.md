@@ -52,6 +52,8 @@ with their interdependencies. All repos are listed with core info like:
 
 ### Keyboards
 
+Experimental keyboard layouts and early/student work can be found on [a separate page](Experimental.md)
+
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Spoken Language | Maturity | License | Open&nbsp;Issues | CI&nbsp;Report |
 | ---------- | --------------- | -------- | ------- | ---------------- | --------- |
 | [giellalt/keyboard-bxr](https://github.com/giellalt/keyboard-bxr) | Russia Buriat              | [![Maturity:      Alpha](https://img.shields.io/badge/M-Alpha-red.svg)             ](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | [![License: LGPL v3](https://img.shields.io/badge/Lic-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/keyboard-bxr)](https://github.com/giellalt/keyboard-bxr/issues) | [![Build Status](https://github.com/giellalt/keyboard-bxr/workflows/CI+CD/badge.svg)](https://github.com/giellalt/keyboard-bxr/actions) |
@@ -72,6 +74,8 @@ with their interdependencies. All repos are listed with core info like:
 | [giellalt/keyboard-vro](https://github.com/giellalt/keyboard-vro) | Võro                       | [![Maturity:      Alpha](https://img.shields.io/badge/M-Alpha-red.svg)             ](https://github.com/divvun/giellalt-svn2git/blob/master/doc/Aftermath.md#language-model-maturity-classification) | [![License: LGPL v3](https://img.shields.io/badge/Lic-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/keyboard-vro)](https://github.com/giellalt/keyboard-vro/issues) | [![Build Status](https://github.com/giellalt/keyboard-vro/workflows/CI+CD/badge.svg)](https://github.com/giellalt/keyboard-vro/actions) |
 
 ### Languages
+
+Experimental language resources and early/student work can be found on [a separate page](Experimental.md)
 
 | Repository | Spoken Language | Maturity | License | Open&nbsp;Issues | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CI&nbsp;Report&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ---------- | --------------- | -------- | ------- | ---------------- | --------- |
