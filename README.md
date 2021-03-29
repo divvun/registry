@@ -62,7 +62,7 @@ with their interdependencies. All repos are listed with core info like:
 
 ### Keyboards
 
-Experimental keyboard layouts and early/student work can be found on [a separate page](Experimental.md)
+Experimental keyboard layouts and early/student work can be found on [a separate page](Experimental.md#keyboards)
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Spoken Language | Maturity | License | Open&nbsp;Issues | CI&nbsp;Report |
 | ---------- | --------------- | -------- | ------- | ---------------- | --------- |
@@ -85,7 +85,7 @@ Experimental keyboard layouts and early/student work can be found on [a separate
 
 ### Languages
 
-Experimental language resources and early/student work can be found on [a separate page](Experimental.md)
+Experimental language resources and early/student work can be found on [a separate page](Experimental.md#languages)
 
 | Repository | Spoken Language | Maturity | License | Open&nbsp;Issues | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CI&nbsp;Report&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ---------- | --------------- | -------- | ------- | ---------------- | --------- |
