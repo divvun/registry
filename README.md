@@ -145,7 +145,3 @@ Experimental language resources and early/student work can be found on [a separa
 | ---------- | ------------------ | ------- | ---------------- |
 | [giellalt/template-lang-und    ](https://github.com/giellalt/template-lang-und)     | Language resources and update template | [![License: LGPL v3](https://img.shields.io/badge/Lic-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-lang-und)](https://github.com/giellalt/template-lang-und/issues)         | 
 | [giellalt/template-keyboard-und](https://github.com/giellalt/template-keyboard-und) | Keyboard resources and update template | [![License: LGPL v3](https://img.shields.io/badge/Lic-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/template-keyboard-und)](https://github.com/giellalt/template-keyboard-und/issues) | 
-
-## More resources
-
-[Experimental keyboards and language resources](Experimental.md)
