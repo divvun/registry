@@ -9,13 +9,13 @@ with their interdependencies. All repos are listed with core info like:
 
 ## Content
 
-- [Overview](README.md#overview)
-- [Product Software](README.md#product-software)
-- [Support Software](README.md#support-software)
-- [Keyboard resources](README.md#keyboards)
-- [Language resources](README.md#languages)
-- [Common resources](README.md#common-resources)
-- [Templates](README.md#templates)
+- [Overview](#overview)
+- [Product Software](#product-software)
+- [Support Software](#support-software)
+- [Keyboard resources](#keyboards)
+- [Language resources](#languages)
+- [Common resources](#common-resources)
+- [Templates](#templates)
 
 ## Overview
 
