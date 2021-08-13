@@ -1,7 +1,9 @@
 # Divvun Repository Registry
 
 An overview of most repositories in [Divvun](https://github.com/divvun) and [GiellaLT](https://github.com/giellalt),
-with their interdependencies. All repos are listed with core info like:
+with their interdependencies. For private repos see [this page](https://github.com/divvun/private-registry) (restricted access).
+
+All repos are listed with core info like:
 - license
 - short description, programming language and target platforsm (non-linguistic repos)
 - a four-grade maturity cliassification (linguistic resources)
