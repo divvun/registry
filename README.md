@@ -1,6 +1,6 @@
 # Divvun Repository Registry
 
-An overview of most repositories in [Divvun](https://githubcom/divvun) and [GiellaLT](https://githubcom/giellalt),
+An overview of most repositories in [Divvun](https://github.com/divvun) and [GiellaLT](https://github.com/giellalt),
 with their interdependencies. All repos are listed with core info like:
 - license
 - short description, programming language and target platforsm (non-linguistic repos)
