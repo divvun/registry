@@ -11,17 +11,12 @@ All repos are listed with core info like:
 
 ## Content
 
-- [Overview](#overview)
 - [Product Software](#product-software)
 - [Support Software](#support-software)
 - [Keyboard resources](#keyboards)
 - [Language resources](#languages)
 - [Common resources](#common-resources)
 - [Templates](#templates)
-
-## Overview
-
-[![Overview](overview.svg)](https://raw.githack.com/divvun/registry/master/overview.svg)
 
 ## Product Software
 
