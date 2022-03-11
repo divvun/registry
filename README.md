@@ -83,7 +83,7 @@ Experimental keyboard layouts and early/student work can be found on [a separate
 | [giellalt/keyboard-srs](https://github.com/giellalt/keyboard-srs) | Tsuutʼina (Sarsi)          | [![Maturity:      Alpha](https://img.shields.io/badge/M-Alpha-red.svg)             ](https://giellalt.github.io/MaturityClassification.html) | [![License](https://img.shields.io/github/license/giellalt/keyboard-srs)](https://github.com/giellalt/keyboard-srs/blob/main/LICENSE) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/keyboard-srs)](https://github.com/giellalt/keyboard-srs/issues) | [![Build Status](https://github.com/giellalt/keyboard-srs/workflows/CI+CD/badge.svg)](https://github.com/giellalt/keyboard-srs/actions) |
 | [giellalt/keyboard-vro](https://github.com/giellalt/keyboard-vro) | Võro                       | [![Maturity:      Alpha](https://img.shields.io/badge/M-Alpha-red.svg)             ](https://giellalt.github.io/MaturityClassification.html) | [![License](https://img.shields.io/github/license/giellalt/keyboard-vro)](https://github.com/giellalt/keyboard-vro/blob/main/LICENSE) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/keyboard-vro)](https://github.com/giellalt/keyboard-vro/issues) | [![Build Status](https://github.com/giellalt/keyboard-vro/workflows/CI+CD/badge.svg)](https://github.com/giellalt/keyboard-vro/actions) |
 
-### Languages
+### Language models
 
 Experimental language resources and early/student work can be found on [a separate page](Experimental.md#languages)
 

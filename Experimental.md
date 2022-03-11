@@ -43,7 +43,7 @@ Repo types:
 |      [giellalt/keyboard-vot](https://github.com/giellalt/keyboard-vot)      | Votic                      | [![Maturity:  Undefined](https://img.shields.io/badge/M-Undefined-lightgrey.svg)   ](https://giellalt.github.io/MaturityClassification.html) | [![License](https://img.shields.io/github/license/giellalt/keyboard-vot)](https://github.com/giellalt/keyboard-vot/blob/main/LICENSE)           | [![GitHub issues](https://img.shields.io/github/issues/giellalt/keyboard-vot)](https://github.com/giellalt/keyboard-vot/issues)           | [![Build Status](https://github.com/giellalt/keyboard-vot/workflows/CI+CD/badge.svg)](https://github.com/giellalt/keyboard-vot/actions) |
 |      [giellalt/keyboard-yrk](https://github.com/giellalt/keyboard-yrk)      | Nenets                     | [![Maturity:  Undefined](https://img.shields.io/badge/M-Undefined-lightgrey.svg)   ](https://giellalt.github.io/MaturityClassification.html) | [![License](https://img.shields.io/github/license/giellalt/keyboard-yrk)](https://github.com/giellalt/keyboard-yrk/blob/main/LICENSE)           | [![GitHub issues](https://img.shields.io/github/issues/giellalt/keyboard-yrk)](https://github.com/giellalt/keyboard-yrk/issues)           | [![Build Status](https://github.com/giellalt/keyboard-yrk/workflows/CI+CD/badge.svg)](https://github.com/giellalt/keyboard-yrk/actions) |
 
-## Languages
+## Language models
 
 | Repository | Spoken Language | Maturity | License | Open&nbsp;Issues | CI&nbsp;Report |
 | ---------- | --------------- | -------- | ------- | ---------------- | --------- |
