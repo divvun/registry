@@ -45,7 +45,7 @@ Repo types:
 
 ## Language models
 
-| Repository | Spoken Language | Maturity | License | Open&nbsp;Issues | CI&nbsp;Report |
+| Repository | Spoken Language | Maturity | License | Open&nbsp;Issues | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CI&nbsp;Report&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ---------- | --------------- | -------- | ------- | ---------------- | --------- |
 | [giellalt/lang-aka            ](https://github.com/giellalt/lang-aka)                | Akan                     | [![Maturity: Experiment](https://img.shields.io/badge/M-Experiment-black.svg)      ](https://giellalt.github.io/MaturityClassification.html) | [![License](https://img.shields.io/github/license/giellalt/lang-aka)](https://github.com/giellalt/lang-aka/blob/main/LICENSE)                               | [![GitHub issues](https://img.shields.io/github/issues/giellalt/lang-aka)](https://github.com/giellalt/lang-aka/issues)             | [![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-aka/main/badge.svg)](https://github.com/giellalt/lang-aka/actions) |
 | [giellalt/lang-amh            ](https://github.com/giellalt/lang-amh)                | Amharic                  | [![Maturity: Experiment](https://img.shields.io/badge/M-Experiment-black.svg)      ](https://giellalt.github.io/MaturityClassification.html) | [![License](https://img.shields.io/github/license/giellalt/lang-amh)](https://github.com/giellalt/lang-amh/blob/main/LICENSE)                               | [![GitHub issues](https://img.shields.io/github/issues/giellalt/lang-amh)](https://github.com/giellalt/lang-amh/issues)             | [![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-amh/main/badge.svg)](https://github.com/giellalt/lang-amh/actions) |
