@@ -85,7 +85,7 @@ Experimental keyboard layouts and early/student work can be found on [a separate
 
 ### Language models
 
-Experimental language resources and early/student work can be found on [a separate page](Experimental.md#languages)
+Experimental language resources and early/student work can be found on [a separate page](Experimental.md#language-models)
 
 | Repository | Spoken Language | Maturity | License | Open&nbsp;Issues | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CI&nbsp;Report&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | ---------- | --------------- | -------- | ------- | ---------------- | --------- |
