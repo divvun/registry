@@ -13,7 +13,7 @@ All repos are listed with core info like:
 - [Product Software](#product-software)
 - [Support Software](#support-software)
 - [Linguistic resources](#linguistic-resources)
-- [Common resources](#common-resources)
+- [Giella Core](#giella-core)
 - [Templates](#templates)
 
 ## Product Software
@@ -59,12 +59,11 @@ All repos are listed with core info like:
 - [Language models](https://giellalt.github.io/LanguageModels.html)
 - Private repos are  listed on [this page](https://github.com/divvun/private-registry) (restricted access).
 
-## Common resources
+## Giella Core
 
 | Repository | Description        | License | Open&nbsp;Issues | CI&nbsp;Report |
 | ---------- | ------------------ | ------- | ---------------- | -------------- |
-| [giella-core  ](https://github.com/giellalt/giella-core)   | Core build rules and tools  | [![License: GPL v3](https://img.shields.io/badge/Lic-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/giella-core)](https://github.com/giellalt/giella-core/issues)     | [![Build Status](https://github.com/giellalt/giella-core/workflows/CI/badge.svg)](https://github.com/giellalt/giella-core/actions) |
-| [giella-shared](https://github.com/giellalt/giella-shared) | Shared linguistic resources | [![License: GPL v3](https://img.shields.io/badge/Lic-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/giella-shared)](https://github.com/giellalt/giella-shared/issues) | N/A |
+| [giella-core  ](https://github.com/giellalt/giella-core)   | Core build rules and tools  | [![License: GPL v3](https://img.shields.io/badge/Lic-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/giella-core)](https://github.com/giellalt/giella-core/issues) | [![Build Status](https://github.com/giellalt/giella-core/workflows/CI/badge.svg)](https://github.com/giellalt/giella-core/actions) |
 
 ## Templates
 
