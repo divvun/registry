@@ -57,13 +57,8 @@ All repos are listed with core info like:
 
 - [Keyboard layouts](https://giellalt.github.io/KeyboardLayouts.html)
 - [Language models](https://giellalt.github.io/LanguageModels.html)
+- [Shared resources](https://giellalt.github.io/SharedResources.html)
 - Private repos are  listed on [this page](https://github.com/divvun/private-registry) (restricted access).
-
-## Giella Core
-
-| Repository | Description        | License | Open&nbsp;Issues | CI&nbsp;Report |
-| ---------- | ------------------ | ------- | ---------------- | -------------- |
-| [giella-core  ](https://github.com/giellalt/giella-core)   | Core build rules and tools  | [![License: GPL v3](https://img.shields.io/badge/Lic-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) | [![GitHub issues](https://img.shields.io/github/issues/giellalt/giella-core)](https://github.com/giellalt/giella-core/issues) | [![Build Status](https://github.com/giellalt/giella-core/workflows/CI/badge.svg)](https://github.com/giellalt/giella-core/actions) |
 
 ## Templates
 
